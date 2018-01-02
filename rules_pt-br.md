@@ -10,8 +10,8 @@
 1. Postarei um tweet sobre meu progresso a cada dia -> usando a hashtag #100DaysOfCode
 2. Irei colocar o código no GitHub a cada dia e qualquer um pode ver meu 
 progresso.
-3. Atualizarei o (Log rápido)[r1-log_pt-br.md] com o progresso do dia e 
-publicarei um link para que os outros possam ver meu progresso.
+3. Atualizarei o [Log](log_pt-br.md) e o [Log rápido](r1-log_pt-br.md) com o 
+progresso do dia e publicarei um link para que os outros possam ver meu progresso.
 4. Trabalharei em projetos reais, enfrentando desafios reais. O tempo gasto 
 fazendo tutoriais, cursos online e outros recursos similares NÃO contará para
  este desafio.
@@ -32,6 +32,7 @@ Markdown antes, é uma boa forma de praticar.
 
 ## Conteúdos
 * [Regras](rules_pt-br.md)
+* [Log](log_pt-br.md)
 * [Log rápido](r1-log_pt-br.md)
 * [FAQ](FAQ_pt-br.md)
 * [Recursos](resources_pt-br.md)

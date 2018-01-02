@@ -2,8 +2,8 @@
 
 ## Conteúdo
 * [Regras](rules_pt-br.md)
-* [Log 1ª Rodada - acompanhar progresso](log_pt-br.md)
-* [Log curto 1ª Rodada - acompanhar progresso](r1-log_pt-br.md)
+* [Log - acompanhar progresso](log_pt-br.md)
+* [Log curto - acompanhar progresso](r1-log_pt-br.md)
 * [FAQ](FAQ_pt-br.md)
 * [Recursos](resources_pt-br.md)
 

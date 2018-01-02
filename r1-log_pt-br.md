@@ -6,15 +6,11 @@ Log do meu desafio #100DaysOfCode. Iniciado em 02 de janeiro de 2018.
 
 ### R1D0 
 
-Preparei o ambiente e as ferramentas para utilização durante o desafio. Blog 
-em português (Pelican/Python), blog em inglês (Medium), repositórios de 
-acompanhamento e da aplicação, quadro de acompanhamento no Trello.
-
 * [Blog em português](https://hilam.github.io)
 * [Blog em inglês](https://medium.com/itfacets)
-* [Repositório de acompanhamento](https://github.com/hilam/100-days-of-code)
-* [Repositório da aplicação](https://github.com/hilam/armazem)
-* [Quadro Trello](https://trello.com/b/zKO1ooa0/100daysofcode)
+* [Repositório de acompanhamento o desafio](https://github.com/hilam/100-days-of-code)
+* [Repositório do aplicativo](https://github.com/hilam/armazem)
+* [Quadro no Trello](https://trello.com/b/zKO1ooa0/100daysofcode)
 
 ### R1D1 
 
