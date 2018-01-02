@@ -14,7 +14,7 @@ acompanhamento no Trello.
 2. [Blog (versão em inglês)](https://medium.com/itfacets)
 3. [Repositório de acompanhamento do desafio](https://github.com/hilam/100-days-of-code)
 3. [Repositório do aplicativo](https://github.com/hilam/armazem)
-5. [Quaro no Trello](https://trello.com/b/zKO1ooa0/100daysofcode)
+5. [Quadro no Trello](https://trello.com/b/zKO1ooa0/100daysofcode)
 
 ### Dia 1: 03 de Janeiro de 2018
 
