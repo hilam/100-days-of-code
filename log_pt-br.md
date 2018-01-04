@@ -18,6 +18,15 @@ acompanhamento no Trello.
 
 ### Dia 1: 03 de Janeiro de 2018
 
+**Progresso(s) do Dia:** Primeiro commit no repositório da aplicação
+
+**Reflexões:** 
+
+**Link(s):** 
+1. [Primeiro commit](https://github.com/hilam/armazem/commit/454cc003a1fe2819300650eaa8c9c9ad68d4f4f8)
+
+### Dia 2: 04 de Janeiro de 2018
+
 **Progresso(s) do Dia:** 
 
 **Reflexões:** 

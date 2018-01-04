@@ -16,7 +16,16 @@ the challenge.
 
 ### Day 1: January 03, 2018
 
-**Today's Progress**: 
+**Today's Progress**: My first commit on the app repository
+
+**Thoughts** 
+
+**Link to work**
+1. [First commit](https://github.com/hilam/armazem/commit/454cc003a1fe2819300650eaa8c9c9ad68d4f4f8)
+
+### Day 2: January 04, 2018
+
+**Today's Progress**:
 
 **Thoughts** 
 
