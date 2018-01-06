@@ -6,14 +6,43 @@ The log of my #100DaysOfCode challenge. Started on January 02, 2018.
 
 ### R1D0 
 
-* [Blog em português](https://hilam.github.io)
-* [Blog em inglês](https://medium.com/itfacets)
-* [Repositório de acompanhamento o desafio](https://github.com/hilam/100-days-of-code)
-* [Repositório do aplicativo](https://github.com/hilam/armazem)
-* [Quadro no Trello](https://trello.com/b/zKO1ooa0/100daysofcode)
+* [Blog in portuguese](https://hilam.github.io)
+* [Blog in english](https://medium.com/itfacets)
+* [Challenge's Repository](https://github.com/hilam/100-days-of-code)
+* [App's Repository](https://github.com/hilam/armazem)
+* [Trello Board (portuguese)](https://trello.com/b/zKO1ooa0/100daysofcode)
+
+[Details](log.md#Day_0_January_02_2018)
 
 ### R1D1 
 My first commit on [armazem](https://github.com/hilam/armazem) repository.
 * [First commit](https://github.com/hilam/armazem/commit/454cc003a1fe2819300650eaa8c9c9ad68d4f4f8)
 
+[Details](log.md#Day_1_January_03_2018)
+
 ### R1D2
+
+I plugged a Cloud Server into Host1Plus, where I already had a domain. First
+configurations of the Ubuntu 16.04.3 Server, which will be the production 
+platform. Installation of git and nginx.
+
+[Details](log.md#Day_2_January_04_2018)
+
+### R1D3
+
+Continued the readings; completed a Git training, which I started before 
+the challenge; I matured the idea of code in Windows, using PyCharm Community, 
+contrasting with another idea of using a Linux virtual machine (Debian or Ubuntu), 
+using nano or vim; still, I continued the studies of the "Data Science" course
+at Udemy. I registered and started watching classes in the course of 
+"Statistics".
+
+[Details](log.md#Day_3_January_05_2018)
+
+### R1D4
+
+* Updated my Docker Toolbox for Windows installation
+* Created a virtual machine Ubuntu Server 16.04.3, local, to tests and 
+builds, and synchronize the remote server's configuration
+
+[Details](log.md#Day_4_January_06_2018)
