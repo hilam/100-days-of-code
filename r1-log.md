@@ -46,3 +46,11 @@ at Udemy. I registered and started watching classes in the course of
 builds, and synchronize the remote server's configuration
 
 [Details](log.md#day-4-january-06-2018)
+
+### R1D5
+
+* Continued the readings
+* Coded primary model of app, using SQAlchemy. Definition: Development 
+database will be SQLite. Production database will be PostgreSQL.
+
+[Details](log.md#day-5-january-08-2018)

@@ -91,8 +91,12 @@ está tudo praticamente definido no documento de características do aplicativo.
 
 ### Dia 5: 07 de Janeiro de 2018
 
-**Progresso(s) do Dia:** 
+**Progresso(s) do Dia:** Continuei asleituras; codifiquei o modelo de 
+dados primário daaplicação, utilizando SQAlchemy. Definições: banco de dados 
+de desenvolvimento será SQLite. o de produção será PostgreSQL.
 
-**Reflexões:** 
+**Reflexões:** SQLAlchemy me pareceu bastante burocrático.
 
 **Link(s):** 
+<https://github.com/hilam/armazem/commit
+/153968e6f72f4d4524fb19ab87a1e064bf82f6a2>

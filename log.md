@@ -84,10 +84,24 @@ or Conda on the servers? Miniconda solve? To be tested. For version 1.0
 everything is practically defined in the application's feature document.
 
 
-### Day 5: January 07, 2018
+### Day 5: January 08, 2018
+
+**Today's Progress:** Continued the readings; primary model of app, using 
+SQAlchemy. Definition: Development database will be SQLite. Production database 
+will be PostgreSQL.
+
+**Thoughts:** SQLAlchemy look me very bureaucratic.
+
+**Link(s):** 
+<https://github.com/hilam/armazem/commit
+/153968e6f72f4d4524fb19ab87a1e064bf82f6a2>
+
+
+### Day 6: January 09, 2018
 
 **Today's Progress:** 
 
 **Thoughts:** 
 
 **Link(s):** 
+

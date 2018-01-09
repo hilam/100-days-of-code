@@ -48,3 +48,12 @@ iniciei assistindo aulas do curso de "" (Veduca)
 builds e mudanças no servidor da nuvem
 
 [Log detalhado](log_pt-br.md#dia-4-06-de-janeiro-de-2018)
+
+### R1D5
+
+* Continuei as leituras
+* Codiiquei o modelo de dados primário daaplicação, usando SQAlchemy. 
+Definição: O banco de dados de desenvolvimento será SQLite. O banco 
+de dados de produção será PostgreSQL.
+
+[Log detalhado](log_pt-br.md#dia-5-08-de-janeiro-de-2018)
