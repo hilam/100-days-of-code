@@ -99,9 +99,11 @@ will be PostgreSQL.
 
 ### Day 6: January 09, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Continued the readings, including in the list the book 
+"BDD in Action"; first class of the course "M101P: MongoDB for Developers", of 
+[University MongoDB](https://university.mongodb.com/). Doubt: Could be the 
+app's characteristic benefited by using NoSQL?
 
-**Thoughts:** 
+**Thoughts:** The application may benefit from using a non-relational database.
 
-**Link(s):** 
 

@@ -52,8 +52,18 @@ builds e mudanças no servidor da nuvem
 ### R1D5
 
 * Continuei as leituras
-* Codiiquei o modelo de dados primário daaplicação, usando SQAlchemy. 
+* Codifiquei o modelo de dados primário daaplicação, usando SQAlchemy. 
 Definição: O banco de dados de desenvolvimento será SQLite. O banco 
 de dados de produção será PostgreSQL.
 
 [Log detalhado](log_pt-br.md#dia-5-08-de-janeiro-de-2018)
+
+### R1D6
+
+* Continuei as leituras
+* Primeira aula do curso "M101P: MongoDB for Developers", no site da 
+[University MongoDB](https://university.mongodb.com/).
+* Dúvida: o tipo de aplicativo se beneficiaria com bando de dados 
+não-relacional (NoSQL)?
+
+[Log detalhado](log_pt-br.md#dia-6-09-de-janeiro-de-2018)

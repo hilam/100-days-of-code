@@ -54,3 +54,11 @@ builds, and synchronize the remote server's configuration
 database will be SQLite. Production database will be PostgreSQL.
 
 [Details](log.md#day-5-january-08-2018)
+
+### R1D6
+
+* Continued the readings
+* First class of the course "M101P: MongoDB for Developers"
+* Doubt: Could be the app's characteristic benefited by using NoSQL?
+
+[Details](log.md#day-6-january-09-2018)

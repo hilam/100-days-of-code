@@ -81,17 +81,17 @@ builds e mudanças no servidor da nuvem
 Community, num ambiente virtual criado com Anaconda e Python 3.6; utilizar 
 containers Docker (ainda não decidi qual SO do container do aplicativo: 
 Alpine ou Ubuntu?); containers para bancos de dados, testes e homologação 
-(servidor local); criar mecanismo de espelhamento de configurações do servidor local 
-para o servidor remoto; criar mecanismo de deploy automatizado para a 
-produção (servidor remoto); questionamento: devo usar uma distribuição Python
+(servidor local); criar mecanismo de espelhamento de configurações do servidor 
+local para o servidor remoto; criar mecanismo de deploy automatizado para a  
+produção (servidor remoto); questionamento: devo usar uma distribuição Python 
 ou Conda nos servidores? Miniconda resolve? A ser testado. Para a versão 1.0 
 está tudo praticamente definido no documento de características do aplicativo.
 
 **Link(s):** 
 
-### Dia 5: 07 de Janeiro de 2018
+### Dia 5: 08 de Janeiro de 2018
 
-**Progresso(s) do Dia:** Continuei asleituras; codifiquei o modelo de 
+**Progresso(s) do Dia:** Continuei as leituras; codifiquei o modelo de 
 dados primário daaplicação, utilizando SQAlchemy. Definições: banco de dados 
 de desenvolvimento será SQLite. o de produção será PostgreSQL.
 
@@ -100,3 +100,15 @@ de desenvolvimento será SQLite. o de produção será PostgreSQL.
 **Link(s):** 
 <https://github.com/hilam/armazem/commit
 /153968e6f72f4d4524fb19ab87a1e064bf82f6a2>
+
+### Dia 6: 09 de Janeiro de 2018
+
+**Progresso(s) do Dia:** Continuei as leituras, incluindo na lista o livro "BDD
+ in Action"; primeira aula do curso "M101P: MongoDB for Developers", no site
+  da [University MongoDB](https://university.mongodb.com/). Dúvida: a 
+característica do aplicativo se beneficiaria com banco de dados 
+não-relacional (NoSQL)?
+
+**Reflexões:** Talvez o aplicativo se beneficie ao usar banco de dados 
+não-relacional
+
