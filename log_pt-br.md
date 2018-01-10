@@ -112,3 +112,12 @@ não-relacional (NoSQL)?
 **Reflexões:** Talvez o aplicativo se beneficie ao usar banco de dados 
 não-relacional
 
+### Dia 7: 10 de Janeiro de 2018
+
+**Progresso(s) do Dia:** Continuação das leituras; pesquisa sobre BDD + 
+Python, então eu encontrei behave, pytest-bdd e pytest-flask. Eu usarei no 
+projeto do meu aplicativo. Definição: usarei NoSQL MongoDB com pymongo; vou 
+descrever o aplicativo usando a técnica BDD.
+
+**Reflexões:** 
+

@@ -67,3 +67,13 @@ de dados de produção será PostgreSQL.
 não-relacional (NoSQL)?
 
 [Log detalhado](log_pt-br.md#dia-6-09-de-janeiro-de-2018)
+
+### R1D7
+
+* Continuação das leituras
+* Pesquisa sobre BDD + Python, então eu encontrei behave, pytest-bdd e 
+pytest-flask. Eu usarei no projeto do meu aplicativo.
+* Definição: Eu usarei NoSQL MongoDB com pymongo; Vou descrever o aplicativo 
+usando a técnica BDD.
+
+[Log detalhado](log_pt-br.md#dia-7-10-de-janeiro-de-2018)

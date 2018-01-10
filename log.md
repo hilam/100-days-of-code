@@ -106,4 +106,12 @@ app's characteristic benefited by using NoSQL?
 
 **Thoughts:** The application may benefit from using a non-relational database.
 
+### Day 7: January 10, 2018
+
+**Today's Progress:** Continued the readings; research about BDD+Python, then
+ I find behave, pytest-bdd and pytest-flask. I'll use on my app's project. 
+Definition: I'll use NoSQL MongoDB with pymongo; I'll describe the app using
+ BDD technique.
+
+**Thoughts:** 
 

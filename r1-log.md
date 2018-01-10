@@ -62,3 +62,13 @@ database will be SQLite. Production database will be PostgreSQL.
 * Doubt: Could be the app's characteristic benefited by using NoSQL?
 
 [Details](log.md#day-6-january-09-2018)
+
+### R1D7
+
+* Continued the readings
+* Research about BDD+Python, then I find behave, pytest-bdd and pytest-flask
+. I'll use on my app's project.
+* Definition: I'll use NoSQL MongoDB with pymongo; I'll describe the app using
+ BDD technique.
+ 
+[Details](log.md#day-7-january-10-2018)
